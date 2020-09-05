@@ -68,8 +68,8 @@ function draw() {
   if (gameState === "play"){
     score = score + Math.round(getFrameRate()/60);
     
-    if(keyDown("space") && trex.y >= 162) {
-    trex.velocityY = -10;
+    if(keyDown("space") && trex.y >= 161) {
+    trex.velocityY = -12;
     }
       
     
