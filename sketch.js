@@ -28,7 +28,7 @@ function preload(){
   obstacle5 = loadImage("obstacle5.png");
   obstacle6 = loadImage("obstacle6.png");
   
-  checkpoint = loadSound("checkpoint.mp3");
+  checkpoint = loadSound("checkPoint.mp3");
   jump = loadSound("jump.mp3");
   die = loadSound("die.mp3")
 }
