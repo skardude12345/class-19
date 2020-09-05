@@ -30,7 +30,7 @@ function preload(){
   
   checkpoint = loadSound("checkpoint.mp3");
   jump = loadSound("jump.mp3");
-  die = loadSOund("die.mp3")
+  die = loadSound("die.mp3")
 }
 
 function setup() {
